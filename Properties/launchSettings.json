@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dummyfile": {
+      "commandName": "Project",
+      "commandLineArgs": "testfile.bin /s:1M /d"
+    }
+  }
+}
