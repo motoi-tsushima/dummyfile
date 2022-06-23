@@ -8,7 +8,7 @@ namespace dummyfile
         {
             string[] help = { 
                 "" 
-                , "dummyfile v1.0.0.0  Copyright 2021 motoi.tsushima."
+                , "dummyfile v1.0.1.0  Copyright 2021 motoi.tsushima."
                 , ""
                 , " options."
                 , "     /s:filesize     ファイルサイズ(byte size)を指定する。(単位として、k,m,g,tを指定可能)"
